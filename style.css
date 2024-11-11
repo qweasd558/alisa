@@ -93,7 +93,7 @@
     margin: 0 auto 20px auto; /* Ortalamak ve altına boşluk eklemek için */
     border: 3px solid #333; /* Çerçeve eklemek için (isteğe bağlı) */
     border-style: none;
-    margin-left: 681px;
+    margin-left: 700px;
   }
 
   .hk{
@@ -161,7 +161,7 @@ header {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  color: #000;
+  color: #ffffff;
   padding: 2rem;
   text-align: center;
 }
