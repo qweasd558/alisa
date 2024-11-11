@@ -15,7 +15,7 @@
     background-size: cover; /* Fotoğrafın tüm alanı kaplamasını sağlar */
     background-position: center; /* Ortalar */
     background-attachment: fixed; /* Sayfayı kaydırırken arkaplanı sabit tutar */
-    color: #000000; /* Başlık içindeki metinler için beyaz renk */
+    color: #ffffff; /* Başlık içindeki metinler için beyaz renk */
     padding: 2rem;
     text-align: center;
   }
@@ -218,7 +218,7 @@ section {
   height: 120px;
   border-radius: 50%;
   display: block;
-  margin: 0 auto 20px auto;
+  margin-left: 681px;
 }
 
 /* Mobil cihazlar için medya sorguları */
